@@ -21,5 +21,8 @@ python run.py
 - Angular Velocity image:
   ![image](https://github.com/Sen66666666/UAV-Simulation/blob/main/2%2C1angular%20velocity.png)
 - Attitude image:
-- ![image]()
+  ![image](https://github.com/Sen66666666/UAV-Simulation/blob/main/attitude2%2C1.png)
+- UAV velocity image:
+  ![image]()
+- 
 
