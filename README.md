@@ -19,5 +19,7 @@ python run.py
 ## Results
 [![Watch the video](https://img.youtube.com/vi/Fey6LxFukqU/0.jpg)](https://www.youtube.com/watch?v=Fey6LxFukqU)
 - Angular Velocity image:
-  ![image]
+  ![image](https://github.com/Sen66666666/UAV-Simulation/blob/main/2%2C1angular%20velocity.png)
+- Attitude image:
+- ![image]()
 
