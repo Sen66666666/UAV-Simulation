@@ -18,5 +18,6 @@ python run.py
 ```
 ## Results
 [![Watch the video](https://img.youtube.com/vi/Fey6LxFukqU/0.jpg)](https://www.youtube.com/watch?v=Fey6LxFukqU)
-- 
+- Angular Velocity image:
+  ![image]
 
