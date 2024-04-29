@@ -16,6 +16,7 @@ pip install pygame
 ```
 python run.py
 ```
+3.The target point can be modified inside target.csv
 ## Results
 [![Watch the video](https://img.youtube.com/vi/Fey6LxFukqU/0.jpg)](https://www.youtube.com/watch?v=Fey6LxFukqU)
 - Angular Velocity image:
@@ -23,6 +24,6 @@ python run.py
 - Attitude image:
   ![image](https://github.com/Sen66666666/UAV-Simulation/blob/main/attitude2%2C1.png)
 - UAV velocity image:
-  ![image]()
-- 
+  ![image](https://github.com/Sen66666666/UAV-Simulation/blob/main/2%2C1velocity.png)
+  
 
